@@ -6,7 +6,6 @@
 
 Hello there! 👋 Welcome to the inspiring journey of team C242-PS401! We are a group of passionate innovators dedicated to transforming healthcare access and skin disease management with the power of AI and technology.
 
-![Project Showcase]()
 
 ## 🩺 Project Overview
 
